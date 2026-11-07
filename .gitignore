@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OTP data and build outputs (too large for Git)
+otp/*.pbf
+otp/*.zip
+otp/*.obj
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
